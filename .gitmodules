@@ -1,0 +1,4 @@
+[submodule "plugins/pithy/pithy"]
+	path = plugins/pithy/pithy
+	url = https://github.com/johnezang/pithy.git
+	branch = master

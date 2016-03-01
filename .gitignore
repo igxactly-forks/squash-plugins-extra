@@ -1,0 +1,9 @@
+*~
+*#
+*.bak
+
+/build
+
+/CMakeCache.txt
+/CPackConfig.cmake
+/CPackSourceConf
