@@ -2,3 +2,6 @@
 	path = plugins/pithy/pithy
 	url = https://github.com/johnezang/pithy.git
 	branch = master
+[submodule "plugins/lzsse/lzsse"]
+	path = plugins/lzsse/lzsse
+	url = https://github.com/ConorStokes/LZSSE.git
